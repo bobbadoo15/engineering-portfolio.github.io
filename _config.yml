@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Brinton Montgomery - Engineering Portfolio"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Brinton's Engineering Portfolio"
 title_separator          : "-"
 name                     : &name "Brinton Montgomery"
 description              : &description "This portfolio showcases my mechanical and aerospace engineering projects, research work, and academic publications. The collection provides potential employers and collaborators with a comprehensive view of my technical skills, problem-solving capabilities, and hands-on experience in design, analysis, and innovation within the aerospace sector."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "Headshot.jpg"
   name             : "Brinton Montgomery"
   pronouns         : # example: "she/her"  
-  bio              : "Brinton is currently pursuing a B.S. in Mechanical Engineering with an emphasis in Aerospace Engineering at Utah State University. Brinton is planning on graduating in May 2027 with M.S. credits in Aerospace Engineering. Since May 2025, Brinton has worked as a student researcher under Dr. Hunsaker in the AeroLab at USU. Brinton is currently working on the optimization of lift distribution and flight formation to minimize induced drag. Brinton is interested in testing and numerical analysis work involving aerodynamics and propulsion systems, including computational fluid dynamics (CFD). Brinton is proficient in Python and Fortran and has experience in MATLAB and Solidworks. Leadership experience includes Air Force Reserve Officer Training Corps (AFROTC), a 2-year service mission in Madagascar, and warehouse management."
+  bio              : ""
   location         : "Logan, UT, USA"
   employer         : "Utah State University"
   uri              : # URL
