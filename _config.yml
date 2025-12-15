@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Brinton's Engineering Portfolio"
 title_separator          : "-"
 name                     : &name "Brinton Montgomery"
@@ -26,7 +26,7 @@ author:
   avatar           : "Headshot.jpg"
   name             : "Brinton Montgomery"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Mechanical/Aerospace Engineering Student|AeroLab EURS Research Assistant"
   location         : "Logan, UT, USA"
   employer         : "Utah State University"
   uri              : # URL
