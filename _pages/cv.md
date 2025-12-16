@@ -22,7 +22,7 @@ Education
 * A.P.E in Pre-Engineering with Civil-Mechanical Emphasis, Utah Valley University, 2025
 * A.S. in Pre-Engineering, Utah Valley University, 2025
 
-Work experience
+Work Experience
 ======
 
 
@@ -46,17 +46,22 @@ Work experience
 Skills
 ======
 * Technical Skills
-  * Programming Languages (Python, Fortran 90, MATLAB, MS Excel)
-  * CAD Software (Solidworks)
-  * Technical Documentation (Overleaf, MS Word)
-  * Version Control (Github)
+  * Programming languages (Python, Fortran 90, MATLAB, MS Excel)
+  * CAD software (Solidworks)
+  * Technical documentation (Overleaf, MS Word)
+  * Version control (Github)
 * Research & Analysis Skills
-  * Computational Fluid Dynamics (CFD)
-  * Numerical Analysis and Visualization
-  * Data Analysis and Optimization
+  * Computational fluid dynamics (CFD)
+  * Numerical analysis and visualization
+  * Data analysis and optimization
 * Interpersonal Skills
-  * Team Collaboration and Coordination
-  * 
+  * Team collaboration and coordination
+  * Adaptable when challenges arise
+  * Self-initiative
+  * Critical thinking
+  * Problem solving
+  * Time Management
+  * Detail oriented
 
 <!--
 * Skill 1
@@ -87,7 +92,7 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Service and leadership
+Service and Leadership
 ======
 * Air Force ROTC, Brigham Young University, Provo, UT
   * Led a group of 10-15 cadets by building camaraderie in various outdoor activities, enforcing strict regulations when needed, and instructing on technical details through various training events.
