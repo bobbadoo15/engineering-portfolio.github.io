@@ -18,7 +18,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mechanical Engineering with Aerospace Engineering Emphasis, Utah State University, 2027 (expected)
-* Minor in Physics, Utah Valley University, 2025
+  * Minor in Physics, Utah Valley University, 2025
 * A.P.E in Pre-Engineering with Civil-Mechanical Emphasis, Utah Valley University, 2025
 * A.S. in Pre-Engineering, Utah Valley University, 2025
 
@@ -62,35 +62,6 @@ Skills
   * Problem solving
   * Time Management
   * Detail oriented
-
-<!--
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
-
-<!--
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
 
 Service and Leadership
 ======
