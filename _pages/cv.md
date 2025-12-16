@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Resume.pdf" download style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; margin-bottom: 20px;">Download Resume (PDF)</a>
+
+<embed src="{{ base_path }}/files/Resume.pdf" type="application/pdf" width="100%" height="800px" style="margin-bottom: 30px;" />
+---
+
 Education
 ======
 * B.S. in Mechanical Engineering with Aerospace Engineering Emphasis, Utah State University, 2027 (expected)
@@ -65,3 +70,5 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+Here is the PDF version of my Résumé: 
