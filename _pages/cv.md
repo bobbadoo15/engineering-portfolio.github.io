@@ -15,8 +15,11 @@ redirect_from:
 
 Education
 ======
+* M.S. in Aerospace Engineering, Utah State University, starting Spring 2026 through concurrent graduate program
 * B.S. in Mechanical Engineering with Aerospace Engineering Emphasis, Utah State University, 2027 (expected)
   * Minor in Physics, Utah Valley University, 2025
+  * GPA 3.81
+  * Dean's List Honoree
 * A.P.E in Pre-Engineering with Civil-Mechanical Emphasis, Utah Valley University, 2025
 * A.S. in Pre-Engineering, Utah Valley University, 2025
 
