@@ -45,25 +45,25 @@
       max-width: $x-large;
     }
 
-    // // Three column layout
-    // > * {
-    //   flex: 1;  // Each child takes equal space
-    // }
+    // Three column layout
+    > * {
+      flex: 1;  // Each child takes equal space
+    }
 
-    // // Left column (Sitemap)
-    // > *:first-child {
-    //   text-align: left;
-    // }
+    // Left column (Sitemap)
+    > *:first-child {
+      text-align: left;
+    }
 
-    // // Middle column (Copyright)
-    // > *:nth-child(2) {
-    //   text-align: center;
-    // }
+    // Middle column (Copyright)
+    > *:nth-child(2) {
+      text-align: center;
+    }
 
-    // // Right column (Site updated)
-    // > *:last-child {
-    //   text-align: right;
-    // }
+    // Right column (Site updated)
+    > *:last-child {
+      text-align: right;
+    }
   }
 
   a {
