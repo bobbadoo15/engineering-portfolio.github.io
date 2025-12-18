@@ -20,7 +20,7 @@ Education
   * Minor in Physics, Utah Valley University, 2025
   * GPA 3.81
   * Dean's List Honoree
-* A.P.E in Pre-Engineering with Civil-Mechanical Emphasis, Utah Valley University, 2025
+* A.P.E. in Pre-Engineering with Civil-Mechanical Emphasis, Utah Valley University, 2025
 * A.S. in Pre-Engineering, Utah Valley University, 2025
 
 Work Experience
